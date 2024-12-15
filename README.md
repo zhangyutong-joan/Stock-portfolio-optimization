@@ -61,8 +61,8 @@
 
 
 ## 数据来源
-- 沪深300指数：https://www.csindex.com.cn/zh-CN/indices/index-detail/000300
-- 成分股数据：https://tushare.pro/
+- 沪深300指数（近3年）：https://www.csindex.com.cn/zh-CN/indices/index-detail/000300
+- 成分股数据（近3年）：https://tushare.pro/
 - 3年期国债收益率：https://yield.chinabond.com.cn/cbweb-mn/pgxh/pgxhIndex
 
 ## 候选股票
